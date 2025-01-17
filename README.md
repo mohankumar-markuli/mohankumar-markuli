@@ -1,7 +1,5 @@
-<!--# 💫 About Me:
-I am Mohankumar Markuli Chandrayigowda
 
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=Hey%2C+I+am+Mohankumar+Markuli+Chandrayigowda)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rvishalmohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohankumar-mc) 
