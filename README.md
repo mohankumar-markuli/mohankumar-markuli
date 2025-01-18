@@ -29,7 +29,7 @@ Seasoned Systems Engineer and Business Analytics Specialist with a BTech in Comp
 
 
 
-[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohankumar-markuli&theme=monokai)](https://github.com/chethanuk)
+[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohankumar-markuli&theme=monokai)](https://github.com/mohankumar-markuli)
 <!--
 # 📊 GitHub Stats:
 ![aa](https://github-readme-stats.vercel.app/api?username=mohankumar-markuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
