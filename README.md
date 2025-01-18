@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=Hey%2C)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=I+am+Mohankumar+Markuli+Chandrayigowda+ )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=I+am+Mohankumar+Markuli+Chandrayigowda)](https://git.io/typing-svg)
 
-Seasoned Systems Engineer and Business Analytics Specialist with a BTech in Computer Science and MSc in Business Analytics and Big Data. Extensive experience in data pipeline creation, dashboard design, and model development for strategic decision-making. Proficient in SQL, Excel, and Power BI, with a strong understanding of data governance, risk management, and compliance protocols. Known for my collaborative approach, attention to detail, and communication skills in fast-paced, enterprise environments. Proven ability to translate business requirements into actionable insights and deliver solutions that drive operational efficiency and innovation.
+Seasoned Systems Engineer and Business Analytics Specialist with a BTech in Computer Science and MSc in Business Analytics and Big Data. Extensive experience in data pipeline creation, dashboard design, and model development for strategic decision-making. <br> Proficient in SQL, Excel, and Power BI, with a strong understanding of data governance, risk management, and compliance protocols. Known for my collaborative approach, attention to detail, and communication skills in fast-paced, enterprise environments. Proven ability to translate business requirements into actionable insights and deliver solutions that drive operational efficiency and innovation.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rvishalmohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohankumar-mc) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rvishalmohan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohankumar-mc) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
