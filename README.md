@@ -7,10 +7,7 @@ Completed my postgrad ***M.Sc*** in ***Business Anlytics and Big Data*** from [U
 
 Now, I’m excited to contribute my technical expertise combined with hands-on business operations knowledge in driving data-driven decision-making, optimizing business processes, and delivering impactful insights. With a strong foundation in analytics, big data, and system engineering, I am eager to bridge the gap between technology and business strategy, helping organizations leverage data for innovation and growth.
 
-<br>
-
 ## 🔗 Connect to know more 
-
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://mehtanshh.web.app)-->
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)]()
