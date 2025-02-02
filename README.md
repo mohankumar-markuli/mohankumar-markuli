@@ -20,13 +20,13 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 
 <a><h2>Technical Skills & Tools</h2></a>
 
-[![Portfolio](https://img.shields.io/badge/Languages:-black?style=for-the-badge)](https://mehtanshh.web.app)
+[![Languages](https://img.shields.io/badge/Languages:-black?style=for-the-badge)]()
 []
 <br>
-[![Portfolio](https://img.shields.io/badge/Big_Data:-black?style=for-the-badge)](https://mehtanshh.web.app)
+[![Big Data](https://img.shields.io/badge/Big_Data:-black?style=for-the-badge)]()
 []
 <br>
-[![Portfolio](https://img.shields.io/badge/Big_Data:-black?style=for-the-badge)](https://mehtanshh.web.app)
+[![Tools](https://img.shields.io/badge/Tools:-black?style=for-the-badge)]()
 []
 
 
