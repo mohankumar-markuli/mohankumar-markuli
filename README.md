@@ -34,18 +34,8 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 
 
 [![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohankumar-markuli&theme=monokai)](https://github.com/mohankumar-markuli)
+
+
 <!--
-# 📊 GitHub Stats:
-![aa](https://github-readme-stats.vercel.app/api?username=mohankumar-markuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohankumar-markuli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar-markuli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-###
-
----
-[![](https://visitcount.itsvg.in/api?id=mohankumar-markuli&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar-markuli&layout=compact)](https://github.com/mohankumar-markuli/github-readme-stats)
 -->
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
