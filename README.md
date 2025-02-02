@@ -20,17 +20,14 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 
 <a><h2>Technical Skills & Tools</h2></a>
 
-[![Portfolio](https://img.shields.io/badge/Lang-black?style=for-the-badge)](https://mehtanshh.web.app)
-
- - **Languages:**  </br>
-[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-%23DC322F.svg?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-  ![SQL](https://img.shields.io/badge/SQL-%233579b6.svg?style=flat&logo=postgresql&logoColor=white) 
-  ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openbsd&logoColor=white) 
-  
- - **Big Data:**  </br>
-  ![ApacheSpark](https://img.shields.io/badge/Apache%20Spark-%233579b6.svg?style=flat&logo=apache&logoColor=white)
-
+[![Portfolio](https://img.shields.io/badge/Languages:-black?style=for-the-badge)](https://mehtanshh.web.app)
+[]
+<br>
+[![Portfolio](https://img.shields.io/badge/Big_Data:-black?style=for-the-badge)](https://mehtanshh.web.app)
+[]
+<br>
+[![Portfolio](https://img.shields.io/badge/Big_Data:-black?style=for-the-badge)](https://mehtanshh.web.app)
+[]
 
 
 
