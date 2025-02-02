@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=👋+I+am+Mohankumar.+Nice+to_connect!)](https://git.io/typing-svg)
 
 A curious data analyst practitioner and a motivated individual with an experience as systems engineer working closely with the Tech Industry and various roles in business operations across UK.
-Completed my postgrad ***MSc in Business Anlytics and Big Data*** from [University of Liverpool](https://www.liverpool.ac.uk/), United Kingdom and undergrad ***B.Eng in Computer Science*** from [Visvesvaraya Technological University](https://vtu.ac.in/en/), India.
+Completed my postgrad ***M.Sc*** in ***Business Anlytics and Big Data*** from [University of Liverpool](https://www.liverpool.ac.uk/), United Kingdom and undergrad ***B.E*** in ***Computer Science and Engineering*** from [Visvesvaraya Technological University](https://vtu.ac.in/en/), India.
 
 Now, I’m excited to contribute my technical expertise combined with hands-on business operations knowledge in driving data-driven decision-making, optimizing business processes, and delivering impactful insights. With a strong foundation in analytics, big data, and system engineering, I am eager to bridge the gap between technology and business strategy, helping organizations leverage data for innovation and growth.
 
