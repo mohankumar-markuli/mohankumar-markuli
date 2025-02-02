@@ -33,8 +33,8 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]()
 <br><br>
 [![Hosting](https://img.shields.io/badge/Hosting_:-black?style=for-the-badge)]()
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)]()
 <br><br>
 [![IDE](https://img.shields.io/badge/IDE_:-black?style=for-the-badge)]()
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)]()
