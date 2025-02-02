@@ -1,35 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=Hey%2C)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=I+am+Mohankumar+Markuli+Chandrayigowda)](https://git.io/typing-svg)
 
-From Tech to Business Operations & Back: My Journey in Data & Analytics towards Data Platform Engineer
-<break>
-The past few years have been an incredible learning experience—transitioning from tech engineering to business operations and now returning to my core passion: Data Analytics, AI, and Business Intelligence. After earning my BTech in Computer Science and an MSc in Business Analytics & Big Data (Merit) from the University of Liverpool.
 
-💻 Tech Experience: Systems Engineer | Infosys Ltd. (2020 – 2022)</n>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=👋+I+am+Mohankumar.+Nice+to_connect!)](https://git.io/typing-svg)
 
-✅ Designed dashboards & optimized business processes using SQL, Power BI, and Python<br>
-✅ Led AI & ML projects, increasing accuracy by 25% and reducing manual effort<br>
-✅ Developed chatbot solutions, improving engagement by 40%<br>
-✅ Ensured data governance, risk management, and compliance in enterprise environments<br>
+A curious data analyst practitioner and a motivated individual with an experience as systems engineer working closely with the Tech Industry and various roles in business operations across UK.
+Completed my postgrad MSc in Business Anlytics and Big Data from University of Liverpool and undergrad from VTU, India.
 
-⏸ A Year of Hands-On Business Operations (2023-2024) <br> During a personal career break, I worked across multiple industries in the UK, gaining real-world exposure to business processes, supply chains, and customer interactions:🔹 Retail & Warehousing 🔹 Hospitality & Luxury Dining🔹 Parcel & Food Distribution🔹 Sports Clubs & Events 🔹Automobile Quality Inspection (JLR)
+Now, I’m excited to contribute my technical expertise combined with hands-on business operations knowledge in driving data-driven decision-making, optimizing business processes, and delivering impactful insights. With a strong foundation in analytics, big data, and system engineering, I am eager to bridge the gap between technology and business strategy, helping organizations leverage data for innovation and growth.
 
-💡 I have contributed for more the 30 different business operations across United Kingdom and these experiences have given me practical business knowledge that now enhances my technical problem-solving skills—bridging the gap between technology and real-world operations.
-
-📚 Bridging the Gap: Upskilling & Career Restart
-🚀 To ensure a smooth return to Data Science & AI, I have been actively reskilling:
-
- ✅ Completed: Python for Data Science and Machine Learning Bootcamp (Udemy)<br>
- ✅ Strengthening SQL, Power BI, Advanced AI/ML with AWS and Statistic skills
-
-Now, I’m excited to return to data-driven decision-making and contribute my technical expertise combined with hands-on business operations knowledge.
 <br>
 
-Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rvishalmohan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohankumar-mc) 
+## 🔗 Connect to know more 
+
+
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://mehtanshh.web.app)-->
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankumarmarkuli@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=917996471774)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohankumar-mc) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mohanmarkuli)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/mohan-markuli)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rvishalmohan) 
 
 <a><h2>Technical Skills & Tools</h2></a>
+
+[![Portfolio](https://img.shields.io/badge/Lang-black?style=for-the-badge)](https://mehtanshh.web.app)
 
  - **Languages:**  </br>
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
