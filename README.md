@@ -10,7 +10,7 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 ## 🔗 Connect to know more 
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://mehtanshh.web.app)-->
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)]()
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ieo4JbPYidRQDwmNMaFz9MdhfhJ54AJz/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankumarmarkuli@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=917996471774)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohankumar-mc) 
