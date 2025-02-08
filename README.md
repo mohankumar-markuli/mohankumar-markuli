@@ -64,7 +64,7 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 [![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
-
+<br>
 ## <img src="https://github.com/mohankumar-markuli/mohankumar-markuli/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
 
 <div align="center">
