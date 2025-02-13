@@ -9,6 +9,7 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 
 ## 🔗 Connect to know more 
 
+
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://mehtanshh.web.app)-->
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ieo4JbPYidRQDwmNMaFz9MdhfhJ54AJz/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohankumarmarkuli@gmail.com)
