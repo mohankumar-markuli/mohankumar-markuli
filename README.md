@@ -1,5 +1,3 @@
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=112BF7&width=500&lines=👋+I+am+Mohankumar.+Nice+to_connect!)](https://git.io/typing-svg)
 
 A curious data analyst practitioner and a motivated individual with an experience as systems engineer working closely with the Tech Industry and various roles in business operations across United Kingdom.
@@ -8,7 +6,6 @@ Completed my postgrad [***M.Sc Business Anlytics and Big Data***](https://www.li
 Now, I’m excited to contribute my technical expertise combined with hands-on business operations knowledge in driving data-driven decision-making, optimizing business processes, and delivering impactful insights. With a strong foundation in analytics, big data, and system engineering, I am eager to bridge the gap between technology and business strategy, helping organizations leverage data for innovation and growth.
 
 ## 🔗 Connect to know more 
-
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://mehtanshh.web.app)-->
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ieo4JbPYidRQDwmNMaFz9MdhfhJ54AJz/view?usp=sharing)
@@ -67,9 +64,7 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 <br>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar-markuli&layout=compact)](https://github.com/mohankumar-markuli/github-readme-stats)
-
 
 ## <img src="https://github.com/mohankumar-markuli/mohankumar-markuli/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
 
@@ -79,5 +74,3 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 <!--
 [![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohankumar-markuli&theme=monokai)](https://github.com/mohankumar-markuli)
 -->
-
-
