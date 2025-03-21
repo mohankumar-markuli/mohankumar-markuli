@@ -66,11 +66,15 @@ Now, I’m excited to contribute my technical expertise combined with hands-on b
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar-markuli&layout=compact)](https://github.com/mohankumar-markuli/github-readme-stats)
 
-## <img src="https://github.com/mohankumar-markuli/mohankumar-markuli/blob/main/assets/recent.gif" width="30" height="35" /> Recent Activity
+<!--
+
+## <img src="https://github.com/mohankumar-markuli/mohankumar-markuli/blob/main/assets/recent.gif" width="30" height="35" /> 
+
+Recent Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohankumar-markuli&theme=synthwave-84&true&hide_border=true" />
 </div>
-<!--
+
 [![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohankumar-markuli&theme=monokai)](https://github.com/mohankumar-markuli)
 -->
