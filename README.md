@@ -4,22 +4,22 @@ Software engineer building responsive web applications and AI-powered chatbot so
 
 <a><h2>Technical Skills & Tools</h2></a>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,npm,express,mongodb,postgres,vscode,postman" /><br>
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=c,py,anaconda,pycharm,sklearn,raspberrypi,azure" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=windows,powershell,linux,bash,git" /><br>
   </a>
 </p>
