@@ -3,7 +3,10 @@
 Software engineer with 2+ years of experience at Infosys building responsive web applications and AI-powered chatbot solutions. Skilled in Python, JavaScript, SQL, and backend system development. Holds an MSc in Business Analytics from the University of Liverpool. Passionate about backend development, scalable systems, and building real-world applications. Passionate about solving real-world problems through technology and continuous learning.
 
 <br>
-<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/cc22f7ae-60a1-45f3-9f9e-2c2447f7c79f" />
+<img width="4112" height="448" alt="image" src="https://github.com/user-attachments/assets/76f8798f-41bf-4589-a655-17cb281ece90" />
+<img width="1148" height="210" alt="image" src="https://github.com/user-attachments/assets/2c7c629b-2b5d-4207-b896-abb2927ce94a" />
+
+<a href="https://www.geeksforgeeks.org/community/" target="_blank"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/44303edd-e1f2-496a-a4af-3825652c18e8" /></a>&nbsp;&nbsp;
 
 
 <!--
