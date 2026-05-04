@@ -30,7 +30,6 @@ Software engineer building responsive web applications and AI-powered chatbot so
   <summary>Github Stats ⚡</summary>  
 
   <a href="#">[![GitHub Streak](https://streak-stats.demolab.com/?user=mohankumar-markuli&theme=transparent&hide_border=true)](https://git.io/streak-stats)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohankumar-markuli&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 
