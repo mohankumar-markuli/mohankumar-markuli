@@ -26,13 +26,6 @@ Software engineer building responsive web applications and AI-powered chatbot so
 
 <br>
 
-<details>
-  <summary>Github Stats ⚡</summary>  
-
-  <a href="#">[![GitHub Streak](https://streak-stats.demolab.com/?user=mohankumar-markuli&theme=transparent&hide_border=true)](https://git.io/streak-stats)</a>
-</details>
-
-
 <img width="4112" alt="image" src="https://github.com/user-attachments/assets/76f8798f-41bf-4589-a655-17cb281ece90" />
 
 I love connecting with new people. Give me a shout at mohankumarmarkuli@gmail.com or on LinkedIn -  [![Linkedin:Mohankumar](https://img.shields.io/badge/-Mohankumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohankumar-mc/)](https://www.linkedin.com/in/mohankumar-mc/)!
