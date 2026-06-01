@@ -1,6 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=FFFF00&width=500&lines=👋+I+am+Mohankumar.+Nice+to_connect!)](https://git.io/typing-svg)
 
-Software engineer building responsive web applications and AI-powered chatbot solutions. Holds an MSc in Business Analytics from the University of Liverpool. Passionate about backend development, scalable systems, and building real-world applications. Passionate about solving real-world problems through technology and continuous learning.
+As a Backend Engineer, I have worked on building scalable RESTful APIs, modular backend architectures, and data-driven systems using Node.js, Express.js, and MongoDB — most recently shipping FinEdge, a full-featured personal finance API with JWT authentication, aggregation pipelines, and a complete test suite.
+
+At Infosys, I designed and deployed backend services powering real-time financial analytics, an AI-powered chatbot on Azure, and responsive web applications that measurably improved user engagement.
+
+I believe backend engineering is less about the framework and more about the thinking behind it — separation of concerns, writing code that fails gracefully, and leaving a codebase better than you found it. That mindset is what I bring to every project.
+
+I hold an MSc in Business Analytics from the University of Liverpool and a BE in Computer Science — which means I think about data and systems together, not in isolation.
+
+Currently deepening my craft through the AI-First Software Engineer programme at Airtribe, and actively looking to contribute to a backend team building something meaningful.
 
 <a><h2>Technical Skills & Tools</h2></a>
 <p align="center">
