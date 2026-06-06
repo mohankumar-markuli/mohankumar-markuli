@@ -37,5 +37,3 @@ Currently deepening my craft through the AI-First Software Engineer programme at
 <img width="4112" alt="image" src="https://github.com/user-attachments/assets/76f8798f-41bf-4589-a655-17cb281ece90" />
 
 I love connecting with new people. Give me a shout at mohankumarmarkuli@gmail.com or on LinkedIn -  [![Linkedin:Mohankumar](https://img.shields.io/badge/-Mohankumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohankumar-mc/)](https://www.linkedin.com/in/mohankumar-mc/)!
-
-<img width="1148" height="210" alt="image" src="https://github.com/user-attachments/assets/2c7c629b-2b5d-4207-b896-abb2927ce94a" />
